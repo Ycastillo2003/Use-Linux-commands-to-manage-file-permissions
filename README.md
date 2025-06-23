@@ -33,4 +33,12 @@ You must check the permissions for all files in the directory, including any hid
 
 ![image](https://github.com/user-attachments/assets/91b4d5a9-7794-4931-92aa-8dd032a273dc)
 
-- Using Chmod to change permissions for the project _k.txt file .
+- Using Chmod to change permissions for the project m.txt file.
+
+![image](https://github.com/user-attachments/assets/b3322bcc-4e9b-4963-948a-8472a953f767)
+
+- Removing all permissions from the project_m.txt
+
+![image](https://github.com/user-attachments/assets/1c423a97-faf0-482d-a527-b0087283f910)
+
+- Using ls -la to verify that the permissions have been updated, and seeing that the hidden project_x.txt has user read permissions but the group does not.
