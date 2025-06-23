@@ -22,3 +22,7 @@ You must check the permissions for all files in the directory, including any hid
 ![image](https://github.com/user-attachments/assets/d197897c-e548-4253-ac7c-736c29818b56)
 
 - First, use the pwd command to see our current directory.
+
+![image](https://github.com/user-attachments/assets/69714908-3c82-4e9d-a397-e99f6dcaf0b7)
+
+- Using the cd command to travel to the project's directory.
