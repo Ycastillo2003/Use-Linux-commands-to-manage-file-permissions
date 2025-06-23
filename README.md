@@ -37,8 +37,12 @@ You must check the permissions for all files in the directory, including any hid
 
 ![image](https://github.com/user-attachments/assets/b3322bcc-4e9b-4963-948a-8472a953f767)
 
-- Removing all permissions from the project_m.txt
+- Removing all permissions from the project_m.txt.
 
 ![image](https://github.com/user-attachments/assets/1c423a97-faf0-482d-a527-b0087283f910)
 
 - Using ls -la to verify that the permissions have been updated, and seeing that the hidden project_x.txt has user read permissions but the group does not.
+
+![image](https://github.com/user-attachments/assets/376f85e2-2bf0-49bd-b5d7-cd359f19c8e1)
+
+- Giving project_x.txt read permissions.
