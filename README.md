@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/e09a3aae-4049-47c2-a8d0-82f9d0ab1ee3)
+![image](https://github.com/user-attachments/assets/09fb938b-03bf-4fb0-aca2-99b2b21024b0)
 
 
 # Linux: Manage authorization
