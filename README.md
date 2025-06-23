@@ -8,7 +8,7 @@ This lab outlines how to manage permissions for files inside of Linux
 
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.
-- Linux commands( ls -l, ls -a, ls -la, chmod ).
+- various Linux commands.
 
 # Operating Systems Used </h2>
 - Linux.
@@ -16,5 +16,8 @@ This lab outlines how to manage permissions for files inside of Linux
 # Actions and observations
 
 
-- Check the permissions of the hidden file .project_x.txt
+- Check the permissions of the hidden file .project_x.txt.
 
+![image](https://github.com/user-attachments/assets/d197897c-e548-4253-ac7c-736c29818b56)
+
+- First, use the pwd command to see our current directory.
