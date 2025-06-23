@@ -26,3 +26,7 @@ You must check the permissions for all files in the directory, including any hid
 ![image](https://github.com/user-attachments/assets/69714908-3c82-4e9d-a397-e99f6dcaf0b7)
 
 - Using the cd command to travel to the project's directory.
+
+![image](https://github.com/user-attachments/assets/673d6472-ff34-4e74-9fad-2c4dbc89e62d)
+
+- Using the ls -la command to list all hidden files and their permissions. 
