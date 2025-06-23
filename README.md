@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/aacf34a1-80b9-40c3-b479-a97eda38295f)
+![image](https://github.com/user-attachments/assets/ab671556-d54b-40f1-ab4f-c31115c69997)
 
 
 # Use Linux commands to manage file permissions.
