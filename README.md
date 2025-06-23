@@ -7,9 +7,10 @@ This lab outlines how to manage permissions for files inside of Linux
 
 
 # Environments and Technologies Used</h2>
-- Google Cloud 
-- Linux commands( ls -l, ls -a, ls -la, chmod )
+- Google Cloud Virtual Machines.
+- Linux commands( ls -l, ls -a, ls -la, chmod ).
 
 # Operating Systems Used </h2>
-- Linux
+- Linux.
 
+# list of steps.
