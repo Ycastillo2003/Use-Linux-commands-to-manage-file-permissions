@@ -10,5 +10,5 @@ This lab outlines how to manage permissions for files inside of Linux
 - Google Cloud 
 
 <h2>Operating Systems Used </h2>
--linux
+- Linux
 
