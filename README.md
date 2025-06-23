@@ -29,4 +29,8 @@ You must check the permissions for all files in the directory, including any hid
 
 ![image](https://github.com/user-attachments/assets/673d6472-ff34-4e74-9fad-2c4dbc89e62d)
 
-- Using the ls -la command to list all hidden files and their permissions. 
+- Using the ls -la command to list all hidden files and their permissions, and observing that only the project_x has write privileges for others.
+
+![image](https://github.com/user-attachments/assets/91b4d5a9-7794-4931-92aa-8dd032a273dc)
+
+- Using Chmod to change permissions for the project _k.txt file .
