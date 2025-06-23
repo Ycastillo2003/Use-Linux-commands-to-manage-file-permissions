@@ -3,7 +3,7 @@
 
 
 # Linux: Manage authorization
-This lab outlines how to manage permissions for files inside of Linux
+This lab outlines how to manage permissions for files inside of Linux.
 
 
 # Environments and Technologies Used</h2>
