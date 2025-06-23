@@ -6,7 +6,7 @@
 This lab outlines how to manage permissions for files inside of Linux
 
 
-<h2>Environments and Technologies Used</h2>
+# Environments and Technologies Used</h2>
 - Google Cloud 
 
 # Operating Systems Used </h2>
