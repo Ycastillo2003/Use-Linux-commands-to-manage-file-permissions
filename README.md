@@ -13,4 +13,4 @@ This lab outlines how to manage permissions for files inside of Linux
 # Operating Systems Used </h2>
 - Linux.
 
-# list of steps.
+# Actions and observations.
