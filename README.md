@@ -8,7 +8,7 @@ This lab outlines how to manage permissions for files inside of Linux
 
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.
-- various Linux commands.
+- Various Linux commands.
 
 # Operating Systems Used </h2>
 - Linux.
