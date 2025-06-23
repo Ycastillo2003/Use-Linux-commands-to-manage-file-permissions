@@ -16,3 +16,5 @@ This lab outlines how to manage permissions for files inside of Linux
 # Actions and observations
 
 
+- Check the permissions of the hidden file .project_x.txt
+
