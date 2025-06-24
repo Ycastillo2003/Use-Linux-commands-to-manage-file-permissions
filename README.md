@@ -15,7 +15,7 @@ This lab outlines how to manage permissions for files inside of Linux.
 
 In this scenario, we are going to examine and manage the permissions on the files in the /home/researcher2/projects directory for the researcher2 user.
 The researcher2 user is part of the research_team group.
-You must check the permissions for all files in the directory, including any hidden files, to make sure that permissions align with the authorization that should be given. When it doesn't, we must change the permissions.
+we must check the permissions for all files in the directory, including any hidden files, to make sure that permissions align with the authorization that should be given. When it doesn't, we must change the permissions.
 
 ![image](https://github.com/user-attachments/assets/d197897c-e548-4253-ac7c-736c29818b56)
 
