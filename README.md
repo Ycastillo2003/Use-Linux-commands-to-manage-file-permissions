@@ -53,6 +53,11 @@ we must check the permissions for all files in the directory, including any hidd
 
 - Removing group execute permissions from the write folder.
 
-                                          ![image](https://github.com/user-attachments/assets/5e975abe-4f83-4ab2-9c47-96520bc38d24)
+
+ 
+ 
+ 
+ 
+ thanks for making it to the end of this lab. ![image](https://github.com/user-attachments/assets/5e975abe-4f83-4ab2-9c47-96520bc38d24)
   
 
