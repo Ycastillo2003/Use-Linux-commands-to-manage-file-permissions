@@ -43,4 +43,4 @@ we must check the permissions for all files in the directory, including any hidd
 
 ![image](https://github.com/user-attachments/assets/376f85e2-2bf0-49bd-b5d7-cd359f19c8e1)
 
-- Giving project_x.txt read permissions.
+- Giving project_x.txt group read permissions.
