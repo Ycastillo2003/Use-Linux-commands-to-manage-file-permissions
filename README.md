@@ -44,3 +44,14 @@ we must check the permissions for all files in the directory, including any hidd
 ![image](https://github.com/user-attachments/assets/376f85e2-2bf0-49bd-b5d7-cd359f19c8e1)
 
 - Giving project_x.txt group read permissions.
+
+![image](https://github.com/user-attachments/assets/5196c7af-c6e2-4bbb-a7b9-84df0c280568)
+
+- Observing that the draft directory has group access.
+
+![image](https://github.com/user-attachments/assets/a8b7a7c7-23db-49e4-b73e-3560dafdd635)
+
+- Removing group execute permissions from the write folder.
+
+     thanks for making to the end of this lab. ![image](https://github.com/user-attachments/assets/5e975abe-4f83-4ab2-9c47-96520bc38d24)
+
